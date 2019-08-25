@@ -26,6 +26,9 @@
     background-repeat: no-repeat;
     background-size: cover;
  }
+ #navbarNav{
+     text-align: right;
+ }
 .img-responsive{
     width: 200px;
     height: 200px;
@@ -54,4 +57,10 @@ footer{
     bottom: 0;
     width: 100%;
 
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align:right;
 }
